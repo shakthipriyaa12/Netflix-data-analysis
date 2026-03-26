@@ -15,6 +15,9 @@ This project performs Exploratory Data Analysis (EDA) on the Netflix dataset to 
 - Most content belongs to Drama and International genres
 - USA and India are among top content-producing countries
 
+## 📁 Dataset
+Dataset source: Kaggle Netflix dataset
+
 ## 📁 Project Structure
 - netflix_analysis.ipynb → Main analysis notebook
 
